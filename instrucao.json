@@ -1,0 +1,322 @@
+{
+    "c2array": true,
+    "size": [
+        3,
+        34,
+        1
+    ],
+    "data": [
+        [
+            [
+                ""
+            ],
+            [
+                "Moeda-Moeda"
+            ],
+            [
+                "Ditado-Moeda"
+            ],
+            [
+                "Moeda-Ditado"
+            ],
+            [
+                "Extenso-Ditado"
+            ],
+            [
+                "Ditado-Extenso"
+            ],
+            [
+                "Extenso-Moeda"
+            ],
+            [
+                "Moeda-Extenso"
+            ],
+            [
+                "Soma-MExtenso"
+            ],
+            [
+                "Soma-Moeda"
+            ],
+            [
+                "Subtração-MExtenso"
+            ],
+            [
+                "Subtração-Moeda"
+            ],
+            [
+                "Cédula-Cédula"
+            ],
+            [
+                "Ditado-Cédula"
+            ],
+            [
+                "Cédula-Ditado"
+            ],
+            [
+                "CDitado-CExtenso"
+            ],
+            [
+                "CExtenso-CDitado"
+            ],
+            [
+                "Cédula-Extenso"
+            ],
+            [
+                "Extenso-Cédula"
+            ],
+            [
+                "Soma-CExtenso"
+            ],
+            [
+                "Soma-Cédula"
+            ],
+            [
+                "Subtração-CExtenso"
+            ],
+            [
+                "Subtração-Cédula"
+            ],
+            [
+                "CM-CM"
+            ],
+            [
+                "Ditado-CM"
+            ],
+            [
+                "CM-Ditado"
+            ],
+            [
+                "CMExtenso-Ditado"
+            ],
+            [
+                "CMDitado-Extenso"
+            ],
+            [
+                "Extenso-CM"
+            ],
+            [
+                "CM-Extenso"
+            ],
+            [
+                "Soma-Extenso"
+            ],
+            [
+                "Soma-CM"
+            ],
+            [
+                "Subtração-Extenso"
+            ],
+            [
+                "Subtração-CM"
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                "Clique na moeda igual a moeda do ovo"
+            ],
+            [
+                "Clique na moeda igual a que for falada"
+            ],
+            [
+                "Clique no som da moeda, e depois, clique em OK"
+            ],
+            [
+                "Clique no som igual ao valor escrito, e depois, clique em OK"
+            ],
+            [
+                "Clique no valor da moeda que for falada"
+            ],
+            [
+                "Clique na moeda igual ao valor na sacola"
+            ],
+            [
+                "Clique na sacola igual ao valor da moeda "
+            ],
+            [
+                "Clique no círculo com o valor que completa a soma"
+            ],
+            [
+                "Clique na moeda que completa a soma"
+            ],
+            [
+                "Clique no círculo com o valor que completa a subtração"
+            ],
+            [
+                "Clique na moeda que completa a subtração"
+            ],
+            [
+                "Clique na cédula igual a cédula do porquinho"
+            ],
+            [
+                "Clique na cédula igual a que for falada"
+            ],
+            [
+                "Clique no som da cédula, e depois, clique em OK"
+            ],
+            [
+                "Clique no valor da cédula que for falada"
+            ],
+            [
+                "Clique no som igual ao valor escrito, e depois, clique em OK"
+            ],
+            [
+                "Clique na etiqueta com o valor igual a cédula"
+            ],
+            [
+                "Clique na cédula igual ao valor no painel"
+            ],
+            [
+                "Clique no círculo com o valor que completa a soma"
+            ],
+            [
+                "Clique na cédula que completa a soma"
+            ],
+            [
+                "Clique no círculo com o valor que completa a subtração"
+            ],
+            [
+                "Clique na cédula que completa a subtração"
+            ],
+            [
+                "Clique na moeda ou cédula igual"
+            ],
+            [
+                "Clique na moeda ou cédula igual a que for falada"
+            ],
+            [
+                "Clique no som da moeda ou cédula, e depois, clique em OK"
+            ],
+            [
+                "Clique no som do valor mostrado no celular"
+            ],
+            [
+                "Clique no valor igual ao que for falado"
+            ],
+            [
+                "Clique na moeda ou cédula igual ao valor da carteira"
+            ],
+            [
+                "Clique na etiqueta com o valor igual ao da cédula ou moeda"
+            ],
+            [
+                "Clique no círculo com o valor que completa a soma"
+            ],
+            [
+                "Clique na cédula ou moeda que completa a soma"
+            ],
+            [
+                "Clique no círculo com o valor que completa a subtração"
+            ],
+            [
+                "Clique na cédula ou moeda que completa a subtração"
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                1
+            ],
+            [
+                2
+            ],
+            [
+                2
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                3
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ],
+            [
+                5
+            ],
+            [
+                6
+            ],
+            [
+                6
+            ],
+            [
+                6
+            ],
+            [
+                6
+            ],
+            [
+                6
+            ],
+            [
+                7
+            ],
+            [
+                7
+            ],
+            [
+                8
+            ],
+            [
+                8
+            ],
+            [
+                9
+            ],
+            [
+                9
+            ],
+            [
+                10
+            ],
+            [
+                11
+            ],
+            [
+                11
+            ],
+            [
+                10
+            ],
+            [
+                10
+            ],
+            [
+                12
+            ],
+            [
+                12
+            ],
+            [
+                13
+            ],
+            [
+                13
+            ],
+            [
+                14
+            ],
+            [
+                14
+            ]
+        ]
+    ]
+}
